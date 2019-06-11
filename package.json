@@ -1,0 +1,15 @@
+{
+  "name": "taikoe2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@getgauge/cli": "^1.0.5",
+    "taiko": "^0.7.1"
+  }
+}
